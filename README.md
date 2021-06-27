@@ -9,9 +9,11 @@ docker compose up -d
 
 ## Access Jenkins
 
-| URL | http://localhost:8080 |
-| User | admin |
-| Password | |
+ Key | Value
+-----+-------
+ URL | http://localhost:8080 
+ User | admin 
+ Password | secret
 
 ## Stop Jenkins
 
