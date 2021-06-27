@@ -10,7 +10,7 @@ docker compose up -d
 ## Access Jenkins
 
  Key | Value
------+-------
+-----|-------
  URL | http://localhost:8080 
  User | admin 
  Password | secret
